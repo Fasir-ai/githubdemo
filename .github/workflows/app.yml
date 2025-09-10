@@ -1,9 +1,6 @@
 name: Build JAR
 
-on:
-  push:
-    branches:
-      - master  # Trigger on push to main branch
+on: push
 
 jobs:
   build:
