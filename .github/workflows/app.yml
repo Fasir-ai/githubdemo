@@ -1,7 +1,5 @@
 name: Build JAR
-
 on: push
-
 jobs:
   build:
     runs-on: ubuntu-latest
